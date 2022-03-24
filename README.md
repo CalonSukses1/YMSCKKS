@@ -9,4 +9,4 @@ pip install requests
 
 cd YMSCKKS
 
-python3 kontole.py
+python3 kontle.py
